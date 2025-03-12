@@ -1,3 +1,8 @@
+## This repo is still under Development
+And yeah i am stil learning about pygame and other stuff related to this project,
+in the meanwhile i am maybe busy in builing other project Like of Machine Learning, or yeah Colleg Exams !!!
+---
+
 ## Steps that i followed 
  
 ### Step 1. Install the pygame
